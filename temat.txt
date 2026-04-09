@@ -1,0 +1,34 @@
+Temat pracy:
+Webowa aplikacja wspierająca profilaktykę chorób układu krążenia
+
+Temat pracy po ang:
+Web Application Supporting Cardiovascular Disease Prevention
+
+Cel pracy:
+Celem pracy jest stworzenie systemu składającego się z aplikacji internetowej oraz bazy danych, wspierającego działania profilaktyczne w obszarze chorób sercowo-naczyniowych. Użytkownik, po zalogowaniu do aplikacji, będzie miał możliwość wprowadzania wybranych parametrów zdrowotnych, takich jak tętno, ciśnienie krwi czy poziom aktywności fizycznej, a także ich przeglądania i analizy w czasie. System będzie prezentował dane w formie czytelnych wizualizacji oraz prostych wskaźników ryzyka w celach informacyjnych i edukacyjnych. Aplikacja ma na celu zwiększenie świadomości użytkownika w zakresie zdrowia układu krążenia oraz promowanie prozdrowotnych nawyków. Baza danych będzie przechowywać informacje o użytkownikach oraz historię wprowadzanych pomiarów.
+
+Opis funkcjonalny:
+
+System będzie zawierał:
+
+Rejestrację i logowanie użytkowników.
+
+Możliwość wprowadzania parametrów zdrowotnych (np. tętno, ciśnienie, aktywność fizyczna).
+
+Wizualizację danych w postaci wykresów i trendów czasowych.
+
+Prezentację prostych wskaźników ryzyka o charakterze informacyjnym.
+
+Podgląd historii pomiarów i statystyk użytkownika.
+
+Panel administracyjny umożliwiający zarządzanie użytkownikami oraz treściami edukacyjnymi (opcjonalnie).
+
+Zakres techniczny:
+Aplikacja webowa zostanie zrealizowana w architekturze front-end/back-end.
+
+Frontend: Angular
+Backend: ASP.NET Core Web API
+Baza danych: PostgreSQL lub MS SQL Server
+
+Bezpieczeństwo: autoryzacja JWT, podstawowe mechanizmy ochrony danych użytkowników
+Opcjonalnie: konteneryzacja aplikacji (Docker), wdrożenie CI/CD

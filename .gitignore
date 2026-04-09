@@ -1,0 +1,39 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build directories
+bin/
+obj/
+
+## ASP.NET
+wwwroot/lib/
+appsettings.*.json
+
+## Rider
+.idea/
+
+## Node
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+## Angular / TypeScript
+*.tgz
+
+## Environment
+.env
+
+## Logs
+*.log
+
+## JetBrains
+*.iml
+
+## Misc
+*.db
