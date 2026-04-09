@@ -1,3 +1,5 @@
+# heart-disease-prevention-webapp
+
 Web Application Supporting Cardiovascular Disease Prevention
 
 Temat (PL): Webowa aplikacja wspierająca profilaktykę chorób układu krążenia
@@ -55,3 +57,5 @@ Migrations (EF Core):
 	```
 
 Uwaga: Aby użyć `dotnet ef` lokalnie z poziomu PowerShell, zainstaluj globalnie narzędzie lub użyj pakietu EF Tools zawartego w projekcie.
+
+Bachelor degree engineering project.
